@@ -1,0 +1,1 @@
+Some basic exercises for understanding JS
